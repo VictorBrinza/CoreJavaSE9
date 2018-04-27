@@ -1,6 +1,10 @@
 
 package ChapterII.Exercises.Exercise6;
-
+/**
+ * A <code> Point </code> object represents a point in plane
+ * @author vbrinza
+ * @version 1.0
+ */
 
 public class Point {
     private double x;

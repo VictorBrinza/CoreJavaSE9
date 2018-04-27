@@ -4,14 +4,15 @@ package ChapterII.Exercises.Exercise1;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 
+
 public class Exercise1 {
     public static void main(String[] args){
         String[] week ={"Sun","Mon","Tue","Wed","Thu","Fri","Sat"};
         for(int i=0; i<7; i++){
         System.out.print(week[i]+" ");
         }
-        LocalDate date = LocalDate.of(2018, 4, 1);
-        int month = 4;
+        LocalDate date = LocalDate.of(2013, 3, 1);
+        int month = 3;
         DayOfWeek weekday = date.getDayOfWeek();
         int value = weekday.getValue();
         System.out.println();
@@ -26,11 +27,6 @@ public class Exercise1 {
             date =date.plusDays(1);
         }
         System.out.println();
-        
-        
-        
-        
-        
         
     }
 }

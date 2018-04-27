@@ -31,10 +31,10 @@ private double eff;
       return "model: "+name+"  miles: "+dist+"  gas: "+gas;
   }
   public static void main(String[] args){
-      Car car = new Car("Audi",0,0,1.3);
-      car.addGas(40);
+      Car car = new Car("Audi",0,0,0.7);
+      car.addGas(60);
       System.out.println(car.getCar());
-      car.getMiles(100);
+      car.getMiles(40);
       System.out.println(car.getCar());
       Car car2 = new Car("BMW",0,0,0.4);
       car2.addGas(70);
