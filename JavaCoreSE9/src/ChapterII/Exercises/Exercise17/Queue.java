@@ -11,7 +11,7 @@ public class Queue {
     private static LinkedList list = new LinkedList();
    
 
-    class Iterator{
+    static class Iterator{
         int value;
         Iterator next;
         
@@ -21,11 +21,9 @@ public class Queue {
           value=data;
           this.next=next;
         }
-        Iterator next(){
-         return next;
-        }
-        boolean hasNext(){
-            return next() != null;
+        
+        public boolean hasNext(Object v){            
+            return list.size()-1 > (Integer) v;
         }
         
         public void put(Object v){ 
@@ -50,16 +48,17 @@ public class Queue {
 
     public static void main(String[] args)
     {
-        Queue cd = new Queue();
-        Iterator iterCreate = cd.iterCreate();
+        
+        
+        Queue.Iterator cd = new Queue.Iterator();
+
 
         for(int i = 0; i < 5; i++)
         { 
-            iterCreate.put(i);
+            cd.put(i);
         }
         System.out.println(list);
-        System.out.println(iterCreate.hasNext());
-
+        System.out.println(cd.hasNext(3));
         
     }
 
