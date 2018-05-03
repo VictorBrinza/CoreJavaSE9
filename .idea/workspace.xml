@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="669b5adb-dd3c-4fdf-b6fc-23ae6eb30d6b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCoreSE9/build/classes/ChapterI/Exercises/Exercise1/Exercise1.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCoreSE9/build/classes/ChapterI/Exercises/Exercise1/Exercise1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCoreSE9/build/classes/ChapterII/Exercises/Exercise5/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCoreSE9/build/classes/ChapterII/Exercises/Exercise5/Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCoreSE9/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCoreSE9/nbproject/private/private.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCoreSE9/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCoreSE9/nbproject/private/private.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCoreSE9/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCoreSE9/nbproject/project.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCoreSE9/src/ChapterI/Exercises/Exercise1/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCoreSE9/src/ChapterI/Exercises/Exercise1/Exercise1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCoreSE9/src/ChapterII/Exercises/Exercise17/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCoreSE9/src/ChapterII/Exercises/Exercise17/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaCoreSE9/src/ChapterII/Exercises/Exercise5/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCoreSE9/src/ChapterII/Exercises/Exercise5/Point.java" afterDir="false" />
-    </list>
+    <list default="true" id="669b5adb-dd3c-4fdf-b6fc-23ae6eb30d6b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,17 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Exemplu.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../java3/src/Exemplu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,9 +32,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-468" />
-    <option name="y" value="-10" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="38" />
+    <option name="y" value="-14" />
     <option name="width" value="1094" />
     <option name="height" value="1000" />
   </component>
@@ -63,8 +43,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -83,59 +64,10 @@
               <item name="JavaCoreSE9" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CoreJavaSE9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoreJavaSE9" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaCoreSE9" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ChapterI" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CoreJavaSE9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoreJavaSE9" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaCoreSE9" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ChapterI" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CoreJavaSE9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoreJavaSE9" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaCoreSE9" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ChapterI" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CoreJavaSE9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoreJavaSE9" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaCoreSE9" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ChapterI" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CoreJavaSE9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoreJavaSE9" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaCoreSE9" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ChapterII" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CoreJavaSE9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CoreJavaSE9" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaCoreSE9" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ChapterII" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -223,14 +155,15 @@
       <workItem from="1524733672154" duration="436000" />
       <workItem from="1525071629945" duration="84000" />
       <workItem from="1525072387923" duration="658000" />
+      <workItem from="1525353086314" duration="31000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1566000" />
+    <option name="totallyTimeSpent" value="1597000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-468" y="-10" width="1094" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -245,7 +178,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.44526902" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -268,6 +201,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../java3/src/Exemplu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../java3/src/Exemplu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -296,18 +236,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaCoreSE9/src/ChapterII/Exercises/Exercise8/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding>
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaCoreSE9/src/ChapterII/Exercises/Exercise8/Point.java" />
     <entry file="file://$PROJECT_DIR$/../java3/src/Exemplu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
