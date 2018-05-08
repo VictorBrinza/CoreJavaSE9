@@ -11,20 +11,50 @@ public class DiscountedItem extends Item{
         this.discount=discount;
     }
     
+    public String getDiscountedDescription() {
+        return super.getDescription();
+    }
 
-    @Override
-    public boolean equals(Object otherObject) {
-        if(otherObject.getClass() == getClass()){;
-        if(!super.equals(otherObject)) return false;
-        DiscountedItem other = (DiscountedItem) otherObject;
-        return discount == other.discount;
-        }else if(otherObject instanceof Item){
-            return super.equals(otherObject);
-        }else{
-            return false;
-        }
+    public double getDiscountedPrice() {
+        return super.getPrice();
     }
     
+    public double getDiscount() {
+        return discount;
+    }
+
+    
+//    @Override
+//    public boolean equals(Object otherObject) {
+//        if(otherObject instanceof DiscountedItem){
+//            DiscountedItem other = (DiscountedItem) otherObject;
+//            return (super.equals(other)) && discount == other.discount;
+//        }else if(otherObject instanceof Item){
+//            Item other = (Item) otherObject;
+//            return super.equals(other);
+//        }else{
+//            return false;
+//        }
+//    }
+    //Objects.equals(description, other.description)
+    
+    
+public boolean equals(Object object){
+      if(object instanceof DiscountedItem){
+          DiscountedItem dItem = (DiscountedItem) object;
+          if( Objects.equals(getDiscountedDescription(), dItem.getDiscountedDescription())
+              && getDiscountedPrice() == dItem.getDiscountedPrice()  
+              && getDiscount() == dItem.getDiscount())
+          { return true; }
+      }else if(object instanceof Item){
+          Item item = (Item) object;
+          if( Objects.equals(getDescription(), item.getDescription())
+              && getPrice() == item.getPrice())
+              { return true; }
+      }
+         return false; 
+      
+}    
     public static void main(String[] args){
         Item x = new Item("obj1",200);
         Item y = new DiscountedItem("obj1",200,400);

@@ -2,16 +2,17 @@
 package chapter4.exercises.exercise13;
 
 import java.lang.reflect.Method;
+import java.lang.reflect.Modifier;
+import java.util.Arrays;
 
 public class Exercise11 {
     public static void main(String[] args){
-        Exercise11 ex = new Exercise11();
+        Object ex = new Object();
         Method[] cl = ex.getClass().getMethods();
         
        
         for(Method m: cl){
-            //if(m.getDeclaringClass())
-            System.out.println(m);
+            System.out.println(Modifier.toString(m.getModifiers())+ " " +Arrays.toString(m.getParameters()));
         }
     }
 }
