@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="669b5adb-dd3c-4fdf-b6fc-23ae6eb30d6b" name="Default" comment="" />
+    <list default="true" id="669b5adb-dd3c-4fdf-b6fc-23ae6eb30d6b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/JavaCoreSE9/build/classes/chapter5/exercises/exercise5/Exercise5.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCoreSE9/build/classes/chapter5/exercises/exercise5/Exercise5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCoreSE9/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCoreSE9/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaCoreSE9/src/chapter5/exercises/exercise5/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaCoreSE9/src/chapter5/exercises/exercise5/Exercise5.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,8 +48,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -64,10 +66,19 @@
               <item name="JavaCoreSE9" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CoreJavaSE9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CoreJavaSE9" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaCoreSE9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -156,11 +167,12 @@
       <workItem from="1525071629945" duration="84000" />
       <workItem from="1525072387923" duration="658000" />
       <workItem from="1525353086314" duration="31000" />
+      <workItem from="1525952366193" duration="69000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1597000" />
+    <option name="totallyTimeSpent" value="1666000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
