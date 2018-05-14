@@ -13,12 +13,7 @@ public class Stack<E> {
                 this.size=0;
 		this.arr =(E[]) new Object[cap];
 	}
-        
-//        public Stack(int cap,E[] array) {
-//        @SuppressWarnings("unchecked") E[] newArray
-//                = (E[]) java.lang.reflect.Array.newInstance(array.getClass().getComponentType(), cap);
-//                
-//        }
+
 	public E pop() {
 		if(this.size == 0){
 			return null;
